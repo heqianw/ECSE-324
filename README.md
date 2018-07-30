@@ -33,4 +33,5 @@ Using what we learned and designed in the previous labs, we would build a music 
 <br/>
 <br/>
 This would be the end goal.
+<br>
 ![alt text](https://i.redditmedia.com/VDH0EnVHiLWhZmc1ySKIym4P4EoC-5VM2cl5oMGQ040.png?s=2b81574efafadcf3de30915a5e1c0b8c)
