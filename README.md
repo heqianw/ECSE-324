@@ -1,4 +1,4 @@
-# ECSE-324
+# ECSE-324 - Computer Organization
 This repositories contains the code written for the labs of the class ECSE 324 - Computer Organization at McGill University, Winter 2018. The lab were completed with ARM assembly subroutines and C programs.
 
 All labs were completed with the use of Quartus 16.1 and Intel FPGA monitor program on an Altera DE1-SoC single board computer.
